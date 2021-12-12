@@ -1,6 +1,8 @@
 <template>
-  <img src="" alt="">
-  <img class="profile" src="../assets/profile.png" alt="">
+  <div>
+    <img class="profile" src="../assets/profile.png" alt="">
+  </div>
+  
 </template>
 
 <script>
